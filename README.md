@@ -27,7 +27,7 @@ In this project, I used different ways of machine learing to analyze the credit 
      
 - Results from EasyEnsembleClassfier mehtod:
 
-     ![easyEnsembleClassifier_results](https://user-images.githubusercontent.com/90361056/149701514-77496119-76c8-4da9-a15c-41459c3b47f7.PNG)
+     ![easyEnsembleClassifier_results](https://user-images.githubusercontent.com/90361056/149702424-08f19393-66a6-4caf-93d7-122ef5479919.PNG)
 
 
 ## **Summary**
