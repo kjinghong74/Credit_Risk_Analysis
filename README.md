@@ -19,7 +19,7 @@ In this project, I used different ways of machine learing to analyze the credit 
 
 - Results from SMOTEENN combined sampling mehtod:
  
-     ![Results_counts](https://user-images.githubusercontent.com/90361056/148713668-917815db-471b-48d5-84cb-abdb1aa9920f.PNG)
+    ![SMOTEENN_combinesampling_results](https://user-images.githubusercontent.com/90361056/149701775-8dd64a63-edec-4a87-a7d8-9f6b68092500.PNG)
 
 - Results from BalancedRandomForest oversampling mehtod:
 
