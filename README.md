@@ -5,16 +5,29 @@ In this project, I used different ways of machine learing to analyze the credit 
 
 ## **Results**
 
-- Results from BalancedRandomForest from ovesampling mehtod:
+- Results from RandomOverSampler mehtod:
+
+     ![random_oversampling_results](https://user-images.githubusercontent.com/90361056/149701086-f1538fb2-0c9c-4e31-b491-09eb61248feb.PNG)
+
+- Results from ClusterCentroids undersampling mehtod:
+     
+     ![ClusterCentroids_undersampling_results](https://user-images.githubusercontent.com/90361056/149700758-0c3541a5-7af3-442b-b731-909ad3f5e921.PNG)
+
+- Results from SMOTE oversampling mehtod:
+ 
+     ![SMOTE_oversampling_results](https://user-images.githubusercontent.com/90361056/149701417-f1a5f2dc-d6da-4a79-bf02-1c24fa1f8a63.PNG)
+
+- Results from SMOTEENN combined sampling mehtod:
+ 
+     ![Results_counts](https://user-images.githubusercontent.com/90361056/148713668-917815db-471b-48d5-84cb-abdb1aa9920f.PNG)
+
+- Results from BalancedRandomForest oversampling mehtod:
 
      ![balancedRandomForest_oversampling_results](https://user-images.githubusercontent.com/90361056/149690322-321bdd98-15ba-4d20-a5f2-9a55aae3493d.PNG)
+     
+- Results from EasyEnsembleClassfier mehtod:
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-     There are 11 out of 21 Vine reviews are 5 stars, and 4444 out of 7689 non-Vine reviews are 5 stars.
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-     52% of Vine reviews were 5 stars, and 58% of non-Vine reviews were 5 stars. 
- 
-![Results_counts](https://user-images.githubusercontent.com/90361056/148713668-917815db-471b-48d5-84cb-abdb1aa9920f.PNG)
+     ![easyEnsembleClassifier_results](https://user-images.githubusercontent.com/90361056/149701514-77496119-76c8-4da9-a15c-41459c3b47f7.PNG)
 
 
 ## **Summary**
